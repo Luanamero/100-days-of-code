@@ -1,3 +1,4 @@
+#Band name generator
 #1. Create a greeting for your program.
 print("Welcome to tha band name generator!")
 #2. Ask the user for the city that they grew up in.
