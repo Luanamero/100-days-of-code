@@ -1,3 +1,4 @@
+#Secret Auction Program
 from replit import clear
 
 def function(name_dict, bid_dict):
